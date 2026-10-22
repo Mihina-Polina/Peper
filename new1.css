@@ -294,7 +294,7 @@ html.visual body {
 
   text-transform: uppercase;
 
-  color: var(--m);
+  color: var(--main);
 
   will-change: transform, opacity, filter;
 
